@@ -11,7 +11,9 @@ export default function Navbar() {
     <label htmlFor="check" className="checkbtn">
       <i className="fa fa-align-justify" />
     </label>
-    <label className="logo">HelperChoice</label>
+     <a href='/home'>
+     <label className="logo">HelperChoice</label>
+     </a>
     <ul>
       <li><NavLink to="/login" className="btLightRun" >
           <span />
