@@ -29,6 +29,8 @@ export default class ContentPageHouseholder extends Component {
               </div>
               <div className="tab-pane fade" id="v-pills-messages" role="tabpanel" aria-labelledby="v-pills-messages-tab">
                 Messages content lorem100
+
+                code tầm bậy
               </div>
             </div>
             {/* Tab content */}
