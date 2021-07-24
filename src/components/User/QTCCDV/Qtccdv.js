@@ -6,7 +6,7 @@ export default function Qtccdv() {
        <div>
   <div className="procedure">
     <div className="container">
-      <h2>QUY TRÌNH CUNG CẤP DỊCH VỤ</h2>
+      <h2 style={{fontWeight:'bold'}}>QUY TRÌNH CUNG CẤP DỊCH VỤ</h2>
       <div className="procedure_content">
         <div className="procedure_content_item">
           <div className="div_icon">

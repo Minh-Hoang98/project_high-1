@@ -9,3 +9,11 @@
   text-decoration: none;
   list-style: none;
 }
+.row>*{
+    
+    width:6%;
+    max-width: 100%;
+    padding-right:1px;
+    padding-left: 1px;
+    margin-top: 10px;
+}

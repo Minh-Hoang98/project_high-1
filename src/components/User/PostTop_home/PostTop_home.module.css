@@ -2,16 +2,23 @@
   .buttonPT{
       background-color:#005b96;
       color: white;
-      padding: 3px 10px 3px 10px;
+      padding: 6px 12px 5px 12px;
       border: 2px solid #005b96;
       border-radius: 20px;
-      margin-top: -5px;
+      margin-top: 0px;
       margin-left: 20px;
       transition: 0.5s;
+      width: 38%;
+      
   }
   .buttonPT:hover{
     background-color:black;
     border: 2px solid #3da4ab;
     color:white;
-
+  }
+  .rowStar{
+    width:0;
+  }
+  .h100labelbt{
+    height: 100%;
   }

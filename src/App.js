@@ -6,7 +6,7 @@ import Home from './pages/Home/Home.js'
 import Login from './pages/LogInUp/Login.js'
 import logout from './pages/LogInUp/Register'
 import IdentifyCode from './pages/LogInUp/IdentifyCode'
-import Householder from './components/User/ChuNha/ContentPageHouseholder'
+import Householder from './components/User/ChuNha/HomePageHouseholder'
 
 function App() {
   return (
